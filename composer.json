@@ -1,0 +1,16 @@
+{
+    "name": "vus520/think-redisd",
+    "description": "redisd driver for thinkphp5",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "尘缘",
+            "email": "vus520@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "think\\redisd\\": "src"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+composer.lock
+vendor/
+.idea
+.DS_Store
+*.deps
+*.libs
+Makefile*
+ac*.m4
+config.*
+*.o
+install-sh
+libtool
+./*.sh
+configure*
+*.lo
+build*
